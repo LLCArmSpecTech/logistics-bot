@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "logisticbot-465208",
+  "private_key_id": "6da1c3201172c56afabdd248737a690b1dc0d766",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9EOYLAeWx/3tp\no4A8EEVHTDjQvPcZRkVGzkGEeywnT49ALdv3oAMraIANS6MGX9yCSHE7TgzqQfyk\nJmebsoBI0T6tc3Z4waS2ah+8QkfJNkWNyLDFbrDnLXIBVJLwLP0ogkLLiZ0CW+HM\nWwJ0Ap7RpllZQFwuCFgzpX9VzCoyOycaQNe3U4AaYgEgy4+A2r1WPeuZ0oY0rsgw\nPC3Hitkfe+RsqNRbiEgzzkChIL4vl0n7q/tOK+6sDP6436vx4XHMJHiZQZLMrPlv\njPybxNQk7XEKQjo09+R6kGWhXBFr8vAhss6Wli8c8ssEWkCEf+My+b2zoSpeT3VO\nl6jM1LttAgMBAAECggEAAWKHwNhjQy+RiwEZpFCWy7jAW/0QwhfJVAVL2XY6grfO\nBZF6BtreWXmZbuxMXFrxTbRnCe3Rx+YZI7QS6bYzKaiVhDLWkRHGcySc9cwDF4Ar\nhPUA061lvW4pvRGn+UgaSAS7C9K5+ovlDN8BlvGm+EOqH2Gw9MOQYjtDdV1g7yW/\nDH8RDVrmMi6BUtdvbC26iedGSk/60DqJbyngcgG2Jw2hFY86Hv/omlE8ujyu02SA\nzwvE7gN0RdP/bG5x6XiBCrw34ucXkwZfbYBUhBj7BCN0l99SNzYQ0wKvymUbcQVB\n3cuoBNTm7qu0sLslrWWSHJ6uS2oSg/IJ4zfb+2qXwQKBgQDmv+IlBfUKymNMP2YO\nTY5ob623b0WzXfUaFdgnSW+MUR3cQ+rEsYYCkcarzoYy9kamaWKxZR47puI3FvVm\n0Byk28mdWEjbOCoNLw/lZsr1GTBoAxEy7RYRtMaoIaB5E8FUtp4cMwKSWyUGczmj\nzCcdEKDSctpD6d0SkMwEjVw8QQKBgQDRwU+bZ1lrDp1M8kUgkCQj0mzMKEXiRc6T\n5GrLEVB2gCUqG7l1bQoVTdtm69J6VQDcIEGtAKjdIcQ6xzwUD95kIPwAYqjYJ4LQ\nlrBUVRue1D1FilEcipQURZUNQqx1Das6Ywr7xj+dF22ILiGKfDiBj0X0ByyG73H3\n15uX1eUkLQKBgQCW5+6Rn++9etatytiHihkUG9VUHaVLxKrCwH54UwJslbAdmR00\nPZUSoRt4yLvjIETcGBe/RA4dnOpcdNtQvdG9zy9vg4lCNNzrele/AxbAbBTIMRlS\nYNMKCVvSIQu9oznQmQ2WC5Ym+Qyhx0Fu6di6nWFPwGUV/R/jQGbsozYrAQKBgQCb\nAnECN24tX69/ncrYNa1/i5I7jceXYF85jCQfzbvY1vqgE70KunopJFBvzvbM0OTB\nyFTAtSwVv0504afUa6W9+WJCJqcAlrJl0/abXAn9ZnuhWIZ4wTCNip6MHim0l1Vi\n4K7NQcThIt8fNHg1D3fyxx67KFIPpgRjVEL4AmpEQQKBgGZQe/cqaFXZ8GP5WgBB\n4nABaQHauJYPQG9y9Z3yhc7D1IBCAoJnk9Twj64YaFSrrIYAXyhhPD7bQvcU6MHC\nYA+4k1SfwaDXN701q3YiSQvl7t1Uxj44Jlnv11wee7BA8n6zuqtHb7Uh4DnbB69/\nErihhbuSAmP5uWXnZRNlU1ZJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "logisticbot@logisticbot-465208.iam.gserviceaccount.com",
+  "client_id": "105656613710965206219",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/logisticbot%40logisticbot-465208.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
