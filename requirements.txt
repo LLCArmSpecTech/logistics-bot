@@ -1,0 +1,4 @@
+Flask==2.3.3
+pyTelegramBotAPI==4.15.2
+gspread==5.12.0
+oauth2client==4.1.3
