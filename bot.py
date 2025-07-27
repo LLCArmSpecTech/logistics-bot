@@ -26,7 +26,7 @@ for ws in all_sheets:
 if not sheet_tasks or not sheet_status:
     raise Exception("Не удалось найти листы. Убедись, что в A1 на одном листе 'Дата', на другом — 'Водитель'.")
 
-bot = TeleBot("8192355470:AAEXc0X8QWB7gKSQ4ZIpRelVyfYG6_gVc4w")
+bot = TeleBot("8352259423:AAEKCe7Uuz8H87RMe4NotNjsDeTGVR5j1GE")
 
 monitor_started = False
 
