@@ -26,7 +26,7 @@ for ws in all_sheets:
 if not sheet_tasks or not sheet_status:
     raise Exception("Не удалось найти листы. Убедись, что в A1 на одном листе 'Дата', на другом — 'Водитель'.")
 
-bot = TeleBot("8085053958:AAHhjYpYWWuCxiynpoeCxAoz0conVeE_17w")
+bot = TeleBot("8352259423:AAEKCe7Uuz8H87RMe4NotNjsDeTGVR5j1GE")
 
 users = {}
 sent_tasks = {}
